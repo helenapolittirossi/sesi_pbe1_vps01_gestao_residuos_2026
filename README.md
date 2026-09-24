@@ -1,4 +1,4 @@
-# 🗑️ Gestão de Resíduos Sólidos
+# Gestão de Resíduos Sólidos
 
 ## Descrição
 
