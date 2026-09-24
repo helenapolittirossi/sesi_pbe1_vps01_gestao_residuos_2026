@@ -1,0 +1,24 @@
+{
+  "name": "sesi_pbe1_vps01_gestao_residuos_2026",
+  "version": "1.0.0",
+  "description": "API para gestão de pontos de descarte irregular de resíduos sólidos",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helenapolittirossi/sesi_pbe1_vps01_gestao_residuos_2026.git"
+  },
+  "keywords": [],
+  "author": "helenapolittirossi",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/helenapolittirossi/sesi_pbe1_vps01_gestao_residuos_2026/issues"
+  },
+  "homepage": "https://github.com/helenapolittirossi/sesi_pbe1_vps01_gestao_residuos_2026#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

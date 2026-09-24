@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "local": "Avenida Principal, 355",
+        "tipo_residuo": "Entulho",
+        "nivel_risco": "Médio",
+        "data_registro": "2026-09-25",
+        "status": "Em análise"
+    },
+    {
+        "id": 2,
+        "local": "Rua Sete de Setembro, 79",
+        "tipo_residuo": "Lixo doméstico",
+        "nivel_risco": "Baixo",
+        "data_registro": "2026-09-24",
+        "status": "Resolvido"
+    },
+    {
+        "id": 3,
+        "local": "Rua das Árvores, 130",
+        "tipo_residuo": "Eletrônico",
+        "nivel_risco": "Alto",
+        "data_registro": "2026-09-23",
+        "status": "Pendente"
+    },
+    {
+        "id": 4,
+        "local": "Rua A, 510",
+        "tipo_residuo": "Eletrônico",
+        "nivel_risco": "Alto",
+        "data_registro": "2026-09-24",
+        "status": "Pendente"
+    },
+    {
+        "id": 5,
+        "local": "Rua B, 32",
+        "tipo_residuo": "Lixo doméstico",
+        "nivel_risco": "Baixo",
+        "data_registro": "2026-09-26",
+        "status": "Pendente"
+    },
+    {
+        "id": 6,
+        "local": "Avenida Brasil, 480",
+        "tipo_residuo": "Entulho",
+        "nivel_risco": "Médio",
+        "data_registro": "2026-09-23",
+        "status": "Em análise"
+    },
+    {
+        "local": "Rua Sem Saída, 310",
+        "tipo_residuo": "Entulho",
+        "nivel_risco": "Baixo",
+        "data_registro": "2026-09-29",
+        "status": "Pendente",
+        "id": 7
+    }
+]
