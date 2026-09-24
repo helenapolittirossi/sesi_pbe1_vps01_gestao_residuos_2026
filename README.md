@@ -131,7 +131,7 @@ GET /buscar/local/:local
 Exemplo:
 
 ```text
-http://localhost:3000/buscar/local/Ipês
+http://localhost:3000/buscar/local/Sete
 ```
 
 ### Buscar por tipo de resíduo
